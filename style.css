@@ -60,3 +60,9 @@ h1 {
     font-family: sans-serif;
 }
 
+.cool {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30pt;
+    border: solid red 1px;
+}
